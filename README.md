@@ -6,4 +6,3 @@ Repositório dedicado aos estudos, exercícios, notebooks e projetos desenvolvid
 
 - `notebooks/`: notebooks de estudos, exercícios e análises.
 - `datasets/`: bases de dados utilizadas nos estudos e projetos.
-- `01-python/`: materiais e conteúdos de Python.
