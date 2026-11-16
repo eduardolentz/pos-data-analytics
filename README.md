@@ -38,6 +38,16 @@ As bases de dados utilizadas nos estudos e exercícios estão organizadas na pas
 | bvsp.csv | [Visualizar arquivo](datasets/bvsp.csv) |
 | cursos-prouni.csv | [Visualizar arquivo](datasets/cursos-prouni.csv) |
 
+## Materiais de apoio
+
+### Statistics Library in Python — Descomplica
+
+Repositório de apoio disponibilizado pela Faculdade Descomplica, com scripts em Python organizados por aula (aulas 2 a 8). Material complementar para acompanhar os conteúdos de estatística e programação em Python.
+
+- **Repositório:** [FaculdadeDescomplica/StatisticsLibraryinPython](https://github.com/FaculdadeDescomplica/StatisticsLibraryinPython)
+- **Conteúdo identificado:** arquivos Python `descomplica_aula_2.py` até `descomplica_aula_8.py`.
+- **Uso:** consulta e apoio aos estudos. Os notebooks e exercícios desenvolvidos por mim permanecem organizados neste repositório.
+
 ## Tecnologias e ferramentas
 
 - **Python** — linguagem utilizada nos estudos e análises.
